@@ -5,7 +5,7 @@ require("libs.TargetFind")
 require("libs.Skillshot")
  
 config = ScriptConfig.new()
-config:SetParameter("Spider", "D", config.TYPE_HOTKEY)
+config:SetParameter("Spider", "E", config.TYPE_HOTKEY)
 config:SetParameter("Chase", "F", config.TYPE_HOTKEY)
 config:SetParameter("ChaseSpider", "E", config.TYPE_HOTKEY)
 config:SetParameter("DenyWithSpider", true)
